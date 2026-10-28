@@ -16,5 +16,5 @@ the previous exercise sequence and adapt it as you train.
 
 ## Contact
 
-Eduard Danziger  
+Eduard Danziger<br>
 [github.com/eduarddanziger](https://github.com/eduarddanziger)
